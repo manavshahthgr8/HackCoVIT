@@ -30,7 +30,7 @@ PPT link:- https://drive.google.com/file/d/1drnHmXgVIMgITv05gyfWbMtxJ8_w3RSQ/vie
 
 ~Tensorflow :- Provide collection of workflow to devlop and train model
 
-~sklearn with it supported libraries like preprocessing & decomposition etc :- used for machine learning and stastical modelling including classification , clustering and dimension reduction 
+~sklearn with it supported libraries like preprocessing & decomposition etc :- used for machine learning and stastical modelling including classification , clustering and dimension reduction .
 
 
 
